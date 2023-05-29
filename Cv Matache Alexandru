@@ -1,0 +1,154 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="./Styles/Styles.css">
+<title>My resume</title> 
+</head>
+              <body>
+                <!--Our app-->
+                <div class="main-section">
+                  <!--Main section-->
+                <div class="right-section">
+                  <!--About me section-->
+                  <div class="about-me-section">
+                        <h3 class="about-me-profession">Manual Testing and Automated Testing</h3>
+                        <h1 id="personName">Matache Alexandru</h1>
+                        <p><Li>Good organizational skills – Experienced</Li>
+
+                          <Li>Communication – Experienced</Li>
+                          
+                          <Li>Client presentation – Experienced</Li>
+                          
+                          <Li>Complex problem solving – Expert</Li>
+                          
+                          <Li>Ability to work under pressure – Experienced</Li>
+                          
+                          <Li>Attention to detail - Experienced</Li>
+                          
+                          <Li>Java – Beginner</Li>
+                          
+                          <Li>Functional testing –Beginner</Li>
+                          
+                          <Li>Manual testing –Beginner</Li></p>
+                  </div>
+                  <!--Projects section-->
+                    <div class="projects-sections">
+                        <h2 class="block-title">Projects</h2>
+                        <ol>
+                          <li>
+                            <span class="projects-item">
+                              <a href="https://thunderous-fairy-3cf54c.netlify.app">https://thunderous-fairy-3cf54c.netlify.app</a>
+                              -----------
+                              <span class="bracket">[</span> HTML5 CSS3 <span class="bracket">]</span>     
+                            </li> 
+                          <li>
+                            <span class="projects-item">
+                              <a href="https://cryptohub.goit.global/">https://cryptohub.goit.global/</a>
+                              -----------
+                              <span class="bracket">[</span> JavaScript <span class="bracket">]</span> 
+                            </span>       
+                            </li>
+                          <li>
+                            <span class="projects-item">
+                              <a href="https://kidslike.goit.global/">https://kidslike.goit.global/</a>
+                              --------------
+                              <span class="bracket">[</span> React.js, Node.js <span class="bracket">]</span> 
+                            </span>                                       
+                            </li>
+                        </ol>      
+                    </div>
+                  <!--Work experince section-->
+                    <div class="work-experience-section">
+                        <h2 class="block-title">Work Experience</h2>
+                    <!--Company nr.3-->
+                    <div>
+                      <h3 class="work-experience-pozition">IT <span class="work-experience-company">Technician</span></h3>  
+                          <p class="work-experience-period">January 2013 - up to now  <span class="line-bracket">|</span>  Country: Bucharest</p>
+                        <ul class="work-experience-time">
+                            <li>Managed and guided a team of 5 people.</li>
+                            <li>Managed several projects from 0.</li>
+                            <li>Solving network and communication problems. </li>
+                            <li>Helped colleagues finish projects on time.</li>
+                            <li>Collaborated with other companies on the same project.</li>
+                            <li>Effective and on-topic communication.</li>
+                            <li>Decision making under pressure.</li>
+                            <li>Knowledge of internet equipment.</li>
+                            <li>Creation of Date rooms.</li>
+                        </ul>
+                      </div>
+                  <!--Education section-->       
+                      <div>
+                        <h3 class="block-title">Education</h3>
+                        <h4 class="school">High school</h4>
+                        <h5 class="management">Nicolae Iorga</h5>
+                        <p class="work-experience-period">September 2007 - June 2011   <span class="line-bracket">|</span>   Romanaia</p>
+                      </div>
+                      <div>
+                        <h4 class="school">General school</h4>
+                        <h5 class="management">G.S.T. Nehoiu</h5>
+                        <p class="work-experience-period">September 1998 - June 2007   <span class="line-bracket">|</span>   Romanaia</p>
+                      </div>
+                      <div>
+                        <h3 class="block-title">Courses:</h3>
+                        <h4 class="school">S.C. AZIMUT VISION S.R.L.</h4>
+                        <h5 class="management">INTRODUCTION TO MANUAL TESTING AND AUTOMATION TESTING</h5>
+                        <p class="work-experience-period">October 2022 - March 2023   <span class="line-bracket">|</span>   Romanaia</p>
+                      </div>
+                    </div>    
+                  </div>
+                  <!--sidebar section-->
+                      <aside class="sidebar-section">
+                          <img src="img/profil cv.jpg" alt="my photo">
+                  <!--Contacts sections-->      
+                        <div class="contact-section">
+                          <h2 class="sidebar-title">Contacts</h2>
+                          <div>
+                              <span class="contacts-section-type">C:</span>
+                              <a class="contacts-section-value" href="tel:0772098607">0772098607</a>
+                          <div>
+                            <span class="contacts-section-type">E:</span>
+                            <a class="contacts-section-value" href="matache.alex.ncs@gmail.com">matache.alex.ncs@gmail.com</a>
+                          </div>
+                        </div>
+                  <!--Tech skills section-->
+                        <div class="tech-skills-section">
+                          <h2 class="sidebar-title2">Tech Skills</h2>
+                          <ul class="sidebar-list">
+                            <li><span>HTML5–Beginner</span></li>
+                            <li><span>IntelliJ IDEA–Beginner </span></li>
+                            <li><span>Testrail–Beginner</span></li>
+                            <li><span>Jira–Beginner</span></li>
+                            <li><span>JavaSelenium–Beginner</span></li>
+
+                          </ul>
+                        </div>
+                  <!--Soft Skills section-->
+                        <div class="tech-skills-section">
+                          <h2 class="sidebar-title">Soft Skills</h2>
+                          <ul class="sidebar-list">
+                          <li><span>Communication</span></li>
+                          <li><span>GTD (Getting Things Done)</span></li>
+                          <li><span>Teamwork</span></li>
+                        </ul>
+                        </div>
+                        <div class="tech-skills-section">
+                          <h2 class="sidebar-title">Hobbies</h2>
+                          <ul class="sidebar-list">
+                          <li><span>Nature walks</span></li>
+                          <li><span>Reading and learning new things</span></li>
+                          <li><span>Chess passion</span></li>
+                          <li><span>Street dance and beatbox</span></li>
+                        </ul>
+                        </div>
+                      </aside>
+                </div>
+              
+
+              </body>
+              </html>
